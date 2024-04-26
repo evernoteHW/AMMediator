@@ -1,9 +1,9 @@
 {
   "name": "AMMediator",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "A short description of AMMediator.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/wei.hu/AMMediator",
+  "homepage": "https://github.com/evernoteHW/AMMediator",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "wei.hu": "7430328@qq.com"
   },
   "source": {
-    "git": "https://github.com/wei.hu/AMMediator.git",
-    "tag": "0.1.0"
+    "git": "git@github.com:evernoteHW/AMMediator.git",
+    "tag": "0.3.0"
   },
   "platforms": {
     "ios": "10.0"

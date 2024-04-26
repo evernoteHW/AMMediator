@@ -7,6 +7,7 @@
 //
 
 #import "ZAViewController.h"
+#import <BlocksKit/TTTTTTTTT.h>
 
 @interface ZAViewController ()
 
@@ -17,6 +18,11 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    
+    self.view.backgroundColor = [UIColor greenColor];
+    
+    [TTTTTTTTT new];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
