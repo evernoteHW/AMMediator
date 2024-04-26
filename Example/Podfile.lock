@@ -1,0 +1,16 @@
+PODS:
+  - AMMediator (0.1.0)
+
+DEPENDENCIES:
+  - AMMediator (from `../`)
+
+EXTERNAL SOURCES:
+  AMMediator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AMMediator: c4ef3407edd324d2199fdb1f2068a02b10c497ab
+
+PODFILE CHECKSUM: 97ba222913fce93adb4a27d6a9f006660e013b42
+
+COCOAPODS: 1.14.3

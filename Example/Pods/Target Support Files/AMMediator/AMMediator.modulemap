@@ -1,0 +1,6 @@
+framework module AMMediator {
+  umbrella header "AMMediator-umbrella.h"
+
+  export *
+  module * { export * }
+}
